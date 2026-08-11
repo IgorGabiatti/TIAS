@@ -13,7 +13,7 @@ Análise De Sequenciamento Genético Em Proband Para Identificar As Mutações G
 - autores: ANDERSON RIBEIRO RIBAS
 - titulo: Sistema Para Monitoramento Remoto De Sinais Vitais Utilizando Esp32
 - curso: ANDERSON RIBEIRO RIBAS
-- link: (https://tcconline.lapinf.ufn.edu.br/media/midias/AndersonRibeiroRibas.pdf)
+- [link:] (https://tcconline.lapinf.ufn.edu.br/media/midias/AndersonRibeiroRibas.pdf)
 - resumo ou ideia básica: O objetivo deste trabalho é construir um protótipo para monitorar os sinais vitais do
 paciente no atendimento domiciliar à saúde
 - rotina: Predição 
