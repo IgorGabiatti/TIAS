@@ -1,4 +1,8 @@
-### 11/08
+# 📘 Tecnologias Inteligentes Aplicadas à Saúde
+
+## 🗒️ Anotações de Aula
+
+### 11/08/26
 Fases de predição
   1- Entender o problema
   2- Fonte de Dados/amostras para treinar
@@ -12,8 +16,8 @@ predição: classificação categorização etiquetação referente aos modelos
 Previsão: series temporais => tempo continuo => projeção
     -mineração - KDD
 
---------------------------------------------------------------------------------------------------------------
-### 04/08
+---
+### 04/08/26
 
  Saúde: 
 
@@ -33,4 +37,4 @@ ML
 MD mineração dados  
 Sistema multiagentes => automação  
 
- 
+ ---
