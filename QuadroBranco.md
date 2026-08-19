@@ -2,6 +2,22 @@
 
 ## 🗒️ Anotações de Aula
 
+--
+### 18/08/26
+  Podemos utilizar modelos treinados ou modelos matematicos para reconhecimento ( predicao previsao) de padroes 
+
+Modelos treinados 
+  -amostra 
+      -> conjuntos      
+        1 lista  [] dicionario lista
+        2 tupla { } dicinario de tupla
+
+      ->entrada   [n] -> atributos, caracteristicas propriedades
+          X       [n]
+        feature   [n] -> Resultado BINÁRIO
+
+  classificar ou categorizar ou etiquetar
+---
 ### 11/08/26
 Fases de predição
   1- Entender o problema
