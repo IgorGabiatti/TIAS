@@ -1,8 +1,28 @@
 # 📘 Tecnologias Inteligentes Aplicadas à Saúde
 
 ## 🗒️ Anotações de Aula
+---
+### 28/08/26
 
---
+O que essas metricas analisam, explicar cada uma delas.
+
+  Accuracy_score :
+
+  classificarion_report:
+
+  confusion_matrix:
+
+  f1_score:
+
+
+Escala likert 0 a 5, pois alguns algoritmos não conseguem ler palavras como "Abaixo" "normal" aí é utilizado a escala Likert, Deixar a coluna com os dados padrões e adicionar outra com a escala Likert.
+
+
+Normalizador/normazitador, retirar o padrão que tem somente uma classifcação da lista Likert tipo 1,1,1,1,1 ou 5,5,5,5,5. 
+
+vicio de uma tabela OverFiting 
+
+---
 ### 18/08/26
   Podemos utilizar modelos treinados ou modelos matematicos para reconhecimento ( predicao previsao) de padroes 
 
