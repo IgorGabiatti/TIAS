@@ -3,6 +3,19 @@
 
 ## 🗒️ Anotações de Aula
 
+
+### 29/09/2026
+
+Aula sobre Pycaret sobre o minicurso que teve do SIRC.
+
+Pycaret é low code, pouco codigo é uma biblioteca de machine leaning, Não é uma alternativa para machine learning. É uma camada de automação. 
+
+qunado estou preparando um ambiente preciso normalizar, ir na base e tirar os modelos fora de linha.
+
+
+
+
+---
 ### 01/09/26
 Aula sobre PYCARET 
   Não é compativel com a versao mais atual do python. Utilizar ate a versão 2025/07 no google colab.
