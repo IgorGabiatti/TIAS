@@ -3,6 +3,26 @@
 
 ## 🗒️ Anotações de Aula
 
+### 06/10/2026
+
+IA -> Inteligencia Artificial 
+  Ciencia de dados (2003)
+
+Sistema de IA, analogia Humana
+  LLM 
+    Cerebro 
+    Geração de texto por raciocinio
+    inteligencia central 
+  
+  RAG
+    Cerebro Livros 
+    informações que voce injeta sem os dados sensiveis
+
+  Agentes de IA
+    Ações automaticas
+
+  MCP
+    Sistema nervoso do projeto,
 
 ### 29/09/2026
 
