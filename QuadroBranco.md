@@ -86,7 +86,7 @@ Modelos treinados
   -amostra 
       -> conjuntos      
         1 lista  [] dicionario lista
-        2 tupla { } dicinario de tupla
+        2 tupla { } dicionario de tupla
 
       ->entrada   [n] -> atributos, caracteristicas propriedades
           X       [n]
