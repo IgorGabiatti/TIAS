@@ -3,6 +3,12 @@
 
 ## 🗒️ Anotações de Aula
 
+
+### 
+  Tias
+  SomDiabetes, colocar melhorias 
+  aqui esta o meu json e meu tom, e não é para aumentar o consumo de token. fine tunnel 
+  
 ### 06/10/2026
 
 IA -> Inteligencia Artificial 
