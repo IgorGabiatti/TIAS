@@ -14,6 +14,8 @@ playwright testes
 
 testar fazer codificação offline. 
 
+Tentar criar uma IA para rodar offline, para fazer a verificação e criação de projetos
+
 ### 
   Tias
   SomDiabetes, colocar melhorias 
