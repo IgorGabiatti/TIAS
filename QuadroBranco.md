@@ -3,6 +3,16 @@
 
 ## 🗒️ Anotações de Aula
 
+### 10/11/2026
+
+Ollama.com para baixar a IA para rodar localmente 
+ollama list para ver os modelos instalados 
+fazer um pull do modelo selecionado
+
+Jan.ia uma alternativa de modelos de ia para utlizar
+playwright testes 
+
+testar fazer codificação offline. 
 
 ### 
   Tias
