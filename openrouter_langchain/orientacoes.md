@@ -1,4 +1,6 @@
+
 # Orientações para os tutoriais de OpenRouter e LangChain
+# Github Prof.º Alexandre Zamberlan(https://github.com/alexandrezamberlan)
 
 ## Tutoriais
 
